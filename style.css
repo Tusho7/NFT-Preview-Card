@@ -126,3 +126,13 @@
     cursor: pointer;
   }
   
+
+  h1:hover {
+    color: aqua;
+    cursor: pointer;
+  }
+
+  .firstimg:hover{
+    opacity: 0.3;
+    cursor: pointer;
+  }
